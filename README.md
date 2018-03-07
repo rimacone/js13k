@@ -1,3 +1,3 @@
 # js13k
 
-10kb game
+10kb game test
