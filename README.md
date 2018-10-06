@@ -8,3 +8,5 @@ maze game
 no prize
 
 prize
+
+works
