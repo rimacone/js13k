@@ -4,3 +4,5 @@
 JS13k game
 
 maze game
+
+no prize
